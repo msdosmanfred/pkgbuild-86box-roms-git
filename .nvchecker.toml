@@ -1,4 +1,4 @@
 [86box-roms-git]
 source = "git"
 git = "https://github.com/86Box/roms.git"
-prefix = "v"
+use_commit = "true"
