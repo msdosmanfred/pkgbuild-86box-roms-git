@@ -1,6 +1,6 @@
 # Maintainer: MS-DOS Manfred
 pkgname=86box-roms-git
-pkgver=f24377c531018052c141e6dc212f5bb7e291c62e
+pkgver=34445a5683402b8ee6f2b09feba242e04eaaf17d
 pkgrel=1
 pkgdesc='ROMs for the 86Box emulator'
 arch=('any')
