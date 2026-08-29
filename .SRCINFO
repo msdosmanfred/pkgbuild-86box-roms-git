@@ -1,6 +1,6 @@
 pkgbase = 86box-roms-git
 	pkgdesc = ROMs for the 86Box emulator
-	pkgver = 6.0.r79.g08a87a0
+	pkgver = 6.0.r85.g5226422
 	pkgrel = 1
 	url = https://github.com/86Box/roms
 	arch = any
